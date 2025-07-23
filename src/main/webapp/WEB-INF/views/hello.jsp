@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2> Welcome tojspring mvc</h2>h2>
+<h2> Welcome tspring mvc</h2>h2>
 <h3>v2.0</h3>
 </body>
 </html>
